@@ -404,15 +404,7 @@ while True:
             continue
         else:
             break
-
-        # add_student()
-        #
-        # will_continue = input("Press 'y' to continue or 'n' to quit: ").lower()
-        #
-        # if will_continue == 'y':
-        #     continue
-        # else:
-        #     break
+            
     elif user_choice == 5:
         add_student()
 
